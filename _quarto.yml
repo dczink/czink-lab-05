@@ -1,8 +1,13 @@
-project:
-  type: website
-  output-dir: docs
-website:
-  title: "Czink-Lab-05"
+title: "Lab 5"
+author: "Dan Czink"
 format:
   html:
     toc: true
+    toc-depth: 3
+    embed-resources: true
+    code-tools: true
+editor: visual
+execute:
+  warning: false
+  message: false
+  echo: false
